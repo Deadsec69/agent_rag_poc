@@ -45,8 +45,8 @@ POC_Task/
 
 1. **Clone the Repository:**
    ```bash
-   git clone <your-repository-link>
-   cd POC_Task
+   git clone https://github.com/Deadsec69/agent_rag_poc.git
+   cd agent_rag_poc
    ```
 
 2. **Install Dependencies:**
